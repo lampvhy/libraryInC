@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/useLib.dir/main.c.o  -o useLib  -L/home/lampv/Documents/Lib_C/useLib/lib -rdynamic -Wl,-Bstatic -ltestLib -Wl,-Bdynamic -Wl,-rpath,/home/lampv/Documents/Lib_C/useLib/lib 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -shared -Wl,-soname,libhello_enjavi.so -o libhello_enjavi.so CMakeFiles/hello_enjavi.dir/src/greeting_jp.c.o CMakeFiles/hello_enjavi.dir/src/greeting_en.c.o CMakeFiles/hello_enjavi.dir/src/greeting_vi.c.o 

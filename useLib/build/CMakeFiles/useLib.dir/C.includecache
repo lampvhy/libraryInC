@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/greeting_en.h
+stdio.h
+-
+
+../include/greeting_jp.h
+stdio.h
+-
+
+../include/greeting_vi.h
+stdio.h
+-
+
+/home/lampv/Documents/Lib_C/useLib/main.c
+greeting_en.h
+/home/lampv/Documents/Lib_C/useLib/greeting_en.h
+greeting_vi.h
+/home/lampv/Documents/Lib_C/useLib/greeting_vi.h
+greeting_jp.h
+/home/lampv/Documents/Lib_C/useLib/greeting_jp.h
+

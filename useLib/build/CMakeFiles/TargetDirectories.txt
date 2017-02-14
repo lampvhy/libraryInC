@@ -1,0 +1,3 @@
+/home/lampv/Documents/Lib_C/useLib/build/CMakeFiles/edit_cache.dir
+/home/lampv/Documents/Lib_C/useLib/build/CMakeFiles/rebuild_cache.dir
+/home/lampv/Documents/Lib_C/useLib/build/CMakeFiles/useLib.dir
